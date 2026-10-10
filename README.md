@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="WDM06160kfk.JPG" alt="Amira Ferchichi" width="160">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+    <img src="banner-dark.png" alt="Amira Ferchichi, Telecommunications Engineering Student" width="100%">
+  </picture>
 </p>
-
-<h1 align="center">Amira Ferchichi</h1>
 
 <p align="center">
   <b>Security-minded telecom engineer. Cloud & AI curious.</b><br>
-  Final-year student at ENIT · Tunis, Tunisia
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/amira-ferchichi">linkedin.com/in/amira-ferchichi</a><br>
+  Tunis, Tunisia<br><br>
+  <a href="https://linkedin.com/in/amira-ferchichi">linkedin.com/in/amira-ferchichi</a> ·
   <a href="mailto:amira.ferchichi@etudiant-enit.utm.tn">amira.ferchichi@etudiant-enit.utm.tn</a>
 </p>
 
