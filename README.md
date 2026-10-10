@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/photo.png" alt="Amira Ferchichi" width="160">
+</p>
+
 <h1 align="center">Amira Ferchichi</h1>
 
 <p align="center">
@@ -6,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amira-ferchichi">LinkedIn</a> ·
-  <a href="mailto:amira.ferchichi@etudiant-enit.utm.tn">Email</a>
+  <a href="https://linkedin.com/in/amira-ferchichi">linkedin.com/in/amira-ferchichi</a><br>
+  <a href="mailto:amira.ferchichi@etudiant-enit.utm.tn">amira.ferchichi@etudiant-enit.utm.tn</a>
 </p>
 
 ---
@@ -34,6 +38,8 @@ I like projects where security meets automation: from CI/CD pipelines and threat
 
 `GitLab CI/CD` `Semgrep` `STRIDE` `OWASP` `Traefik` `Spring Boot` `Helm`
 
+### 📣 Marketing Manager · ENIT Junior Entreprise
+- Lead the digital presence of the junior enterprise: Instagram strategy and content creation.
 
 ### 📡 Intern · One Tech Group (TTEI) · 2024–2025
 *1st-year industrial placement, enterprise WiFi*
@@ -42,11 +48,7 @@ I like projects where security meets automation: from CI/CD pipelines and threat
 - Connected a **physical access point** over CAPWAP and verified SSID and radio provisioning.
 - Studied enterprise WLAN security (WPA2/WPA3, 802.1X/RADIUS, VLAN segmentation) and started forwarding controller logs to Wazuh (SIEM).
 
-`Cisco vWLC` `CAPWAP` `VMware vSphere` `Wazuh` `SSH
-
-###  Marketing Manager · ENIT Junior Entreprise
-- Lead the digital presence of the junior enterprise: Instagram strategy and content creation.
-
+`Cisco vWLC` `CAPWAP` `VMware vSphere` `Wazuh` `SSH`
 
 ## Selected projects
 
@@ -64,10 +66,17 @@ Minimal, reproducible demo of SAST in GitLab Merge Request pipelines, showing th
 
 `GitLab CI/CD` `Semgrep`
 
-### 🔓 [wifi-mitm-lab] · Final-Year Project 1 (ENIT, 2024/2025)
+### 🔓 [wifi-mitm-lab](https://github.com/Amira-ferchichi-9/wifi-mitm-lab) · Final-Year Project 1 (ENIT, 2024/2025)
 Educational study of a Man-in-the-Middle attack in an **isolated virtual lab** (Kali Linux against a Windows target): ARP spoofing with Bettercap, traffic redirection with iptables, interception and modification of HTTP responses with mitmproxy, and packet analysis with Ettercap and Wireshark. Also documents why the attack fails against HTTPS/HSTS, client isolation and WPA3.
 
 `Kali Linux` `Bettercap` `mitmproxy` `Wireshark`
+
+### 🤖 [rl-intrusion-detection](https://github.com/Amira-ferchichi-9/rl-intrusion-detection)
+Reinforcement learning agent for network intrusion detection.
+
+`Python` `Reinforcement Learning`
+
+<!-- TODO: replace the links once each repo is public, and remove any project you don't publish -->
 
 ## Toolkit
 
@@ -81,7 +90,7 @@ Educational study of a Man-in-the-Middle attack in an **isolated virtual lab** (
 
 ## Certifications
 
-NVIDIA LLM Customization · Cisco CCNA: Introduction to Networks · Hedera Hashgraph Developer · Advanced Wordpress
+NVIDIA LLM Customization · Cisco CCNA: Introduction to Networks · Hedera Hashgraph Developer
 
 ---
 
