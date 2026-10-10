@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/photo.png" alt="Amira Ferchichi" width="160">
+  <img src="WDM06160kfk.JPG" alt="Amira Ferchichi" width="160">
 </p>
 
 <h1 align="center">Amira Ferchichi</h1>
