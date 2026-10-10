@@ -8,9 +8,13 @@
 
 <p align="center">
   <b>Security-minded telecom engineer. Cloud & AI curious.</b><br>
-  Tunis, Tunisia<br><br>
-  <a href="https://linkedin.com/in/amira-ferchichi">linkedin.com/in/amira-ferchichi</a> ·
-  <a href="mailto:amira.ferchichi@etudiant-enit.utm.tn">amira.ferchichi@etudiant-enit.utm.tn</a>
+  Tunis, Tunisia
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/amira-ferchichi"><img src="btn-linkedin.png" alt="LinkedIn" height="38"></a>
+  &nbsp;
+  <a href="mailto:amira.ferchichi@etudiant-enit.utm.tn"><img src="btn-email.png" alt="amira.ferchichi@etudiant-enit.utm.tn" height="38"></a>
 </p>
 
 ---
@@ -21,13 +25,13 @@ I'm Amira, a final-year Telecommunications engineering student at **ENIT** (Éco
 
 I like projects where security meets automation: from CI/CD pipelines and threat modeling to cloud-native detection systems.
 
-- 🔍 **Currently exploring**: DevSecOps, cloud security, LLM/RAG applied to security
-- 🎯 **Looking for**: an international PFE (end-of-studies internship) in cybersecurity / cloud / DevSecOps
-- 🏃‍♀️ **Beyond the keyboard**: I love sports and nature. I run marathons and go hiking.
+- **Currently exploring:** DevSecOps, cloud security, LLM/RAG applied to security
+- **Looking for:** an international PFE (end-of-studies internship) in cybersecurity / cloud / DevSecOps
+- **Beyond the keyboard:** I love sports and nature. I run marathons and go hiking.
 
 ## Experience
 
-### 🛡️ Security Engineering Intern · Tunisian Engineers Order (OIT) · Jun–Aug 2026
+### Security Engineering Intern · Tunisian Engineers Order (OIT) · Jun–Aug 2026
 *Security team, new core platform (Spring Boot / React) migrated from a legacy PHP application*
 
 - **Secured the CI/CD pipeline**: integrated SAST (Semgrep) into GitLab through a Merge Request. Found that the GitLab template silently skipped every analyzer in Merge Request pipelines (a green pipeline with no scan) and fixed it with the right pipeline variable.
@@ -37,10 +41,10 @@ I like projects where security meets automation: from CI/CD pipelines and threat
 
 `GitLab CI/CD` `Semgrep` `STRIDE` `OWASP` `Traefik` `Spring Boot` `Helm`
 
-### 📣 Marketing Manager · ENIT Junior Entreprise
+### Marketing Manager · ENIT Junior Entreprise
 - Lead the digital presence of the junior enterprise: Instagram strategy and content creation.
 
-### 📡 Intern · One Tech Group (TTEI) · 2024–2025
+### Intern · One Tech Group (TTEI) · 2024–2025
 *1st-year industrial placement, enterprise WiFi*
 
 - Built a **virtual WiFi lab** around a Cisco vWLC (OVA import on VMware Workstation, then deployment on vSphere) and configured the controller (IP addressing, RF group, SSH access).
@@ -51,7 +55,7 @@ I like projects where security meets automation: from CI/CD pipelines and threat
 
 ## Selected projects
 
-### 📧 [ThreatIntel](https://github.com/Amira-ferchichi-9/threatintel) · Final-Year Project 2 (ENIT, 2025/2026)
+### ThreatIntel · Final-Year Project 2 (ENIT, 2025/2026)
 Cloud-native, **multi-agent pipeline** that analyzes incoming emails and returns a Safe / Suspicious / Dangerous verdict through a REST API.
 
 - 5 specialized agents: sender authentication (SPF/DKIM/DMARC), URL reputation (VirusTotal), NLP and BEC detection (RoBERTa, DistilBERT), attachment sandbox (ephemeral Azure Container Instances), and ensemble scoring (Random Forest / XGBoost).
@@ -60,22 +64,30 @@ Cloud-native, **multi-agent pipeline** that analyzes incoming emails and returns
 
 `Python` `FastAPI` `Azure` `Docker` `Redis` `Transformers`
 
-### 🔧 [gitlab-sast-demo](https://github.com/Amira-ferchichi-9/gitlab-sast-demo)
+<a href="https://github.com/Amira-ferchichi-9/threatintel"><img src="btn-repo.png" alt="View repository" height="34"></a>
+
+### gitlab-sast-demo
 Minimal, reproducible demo of SAST in GitLab Merge Request pipelines, showing the pitfall where analyzers are silently skipped and how to detect and fix it. Based on a problem I diagnosed during my internship, rebuilt on a toy project.
 
 `GitLab CI/CD` `Semgrep`
 
-### 🔓 [wifi-mitm-lab](https://github.com/Amira-ferchichi-9/wifi-mitm-lab) · Final-Year Project 1 (ENIT, 2024/2025)
+<a href="https://github.com/Amira-ferchichi-9/gitlab-sast-demo"><img src="btn-repo.png" alt="View repository" height="34"></a>
+
+### wifi-mitm-lab · Final-Year Project 1 (ENIT, 2024/2025)
 Educational study of a Man-in-the-Middle attack in an **isolated virtual lab** (Kali Linux against a Windows target): ARP spoofing with Bettercap, traffic redirection with iptables, interception and modification of HTTP responses with mitmproxy, and packet analysis with Ettercap and Wireshark. Also documents why the attack fails against HTTPS/HSTS, client isolation and WPA3.
 
 `Kali Linux` `Bettercap` `mitmproxy` `Wireshark`
 
-### 🤖 [rl-intrusion-detection](https://github.com/Amira-ferchichi-9/rl-intrusion-detection)
+<a href="https://github.com/Amira-ferchichi-9/wifi-mitm-lab"><img src="btn-repo.png" alt="View repository" height="34"></a>
+
+### rl-intrusion-detection
 Reinforcement learning agent for network intrusion detection.
 
 `Python` `Reinforcement Learning`
 
-<!-- TODO: replace the links once each repo is public, and remove any project you don't publish -->
+<a href="https://github.com/Amira-ferchichi-9/rl-intrusion-detection"><img src="btn-repo.png" alt="View repository" height="34"></a>
+
+<!-- TODO: remove any project (title, text and button) you don't publish -->
 
 ## Toolkit
 
