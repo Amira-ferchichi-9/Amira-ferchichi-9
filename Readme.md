@@ -209,6 +209,14 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://www.instagram.com/_amira_ferchichi_/">
+  <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.facebook.com/amira.ferchichi.77/">
+  <img src="https://img.shields.io/badge/Facebook-F8BBD0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
 </div>
 
 ---
