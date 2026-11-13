@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    AMIRA FERCHICHI | GITHUB                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -61,6 +60,72 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
 
 ---
 
+<!-- ═════════════════════════════ FEATURED PROJECTS ═════════════════════════════ -->
+
+<h2 align="center">Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Multi-Cloud Security Auditor</h3>
+      <p>Automated security auditing and posture assessment across <b>AWS, Azure and GCP</b>, identifying misconfigurations and providing actionable remediation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-1">🔗 View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Cybersecurity Learning Platform</h3>
+      <p>Hands-on cybersecurity learning platform featuring <b>vulnerable labs</b>, guided learning paths, flag validation and <b>Docker Swarm</b> orchestration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm"/>
+        <img src="https://img.shields.io/badge/CTF-EF93C4?style=flat-square" alt="CTF"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+      </p>
+      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-2">🔗 View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Virtualized Security Infrastructure</h3>
+      <p>Virtualized security infrastructure integrating <b>centralized monitoring, intrusion detection, network security and Active Directory</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square" alt="Wazuh"/>
+        <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory"/>
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/>
+      </p>
+      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-3">🔗 View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Containerized Network Monitoring</h3>
+      <p>Containerized network monitoring infrastructure with <b>host and network-based intrusion detection (HIDS/NIDS)</b>, traffic analysis and <b>QoS monitoring</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square" alt="Suricata"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+      </p>
+      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-4">🔗 View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 RL-based Intrusion Detection</h3>
+      <p>Reinforcement learning algorithms for <b>adaptive intrusion detection</b> and automated traffic-response decisions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Reinforcement_Learning-EF93C4?style=flat-square" alt="Reinforcement Learning"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      </p>
+      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-5">🔗 View repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- ═════════════════════════════ TECH STACK ═════════════════════════════ -->
 
 <h2 align="center">Tech Stack</h2>
@@ -103,14 +168,14 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
 
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Amira-ferchichi-9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&include_all_commits=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amira-ferchichi-9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&include_all_commits=true&count_private=true"
     height="180"
     alt="GitHub Stats"
   />
 
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-ferchichi-9&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amira-ferchichi-9&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF&count_private=true"
     height="180"
     alt="Top Languages"
   />
@@ -134,6 +199,7 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
   />
 
 </div>
+
 ---
 
 <!-- ═════════════════════════════ CONTRIBUTION SNAKE ═════════════════════════════ -->
@@ -149,47 +215,6 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
 </picture>
 
 </div>
-
-<!--
-Create this workflow at:
-.github/workflows/snake.yml
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Amira-ferchichi-9
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-After creating the workflow:
-Repository → Actions → Generate Contribution Snake → Run workflow.
--->
 
 ---
 
@@ -224,7 +249,3 @@ Repository → Actions → Generate Contribution Snake → Run workflow.
   <sub>© Amira Ferchichi · Built with passion and curiosity.</sub>
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amira-ferchichi-9/Amira-ferchichi-9/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
