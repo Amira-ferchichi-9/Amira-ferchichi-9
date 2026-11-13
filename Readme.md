@@ -101,28 +101,39 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
 
 <div align="center">
 
-<!-- GitHub Statistics -->
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Amira-ferchichi-9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amira-ferchichi-9&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9F9F9F&ring_color=F8BBD0&include_all_commits=true" alt="GitHub Stats"/>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-ferchichi-9&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF"
+    height="180"
+    alt="Top Languages"
+  />
 
-<!-- Top Languages -->
+  <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-ferchichi-9&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=9F9F9F" alt="Top Languages"/>
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Amira-ferchichi-9&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=FFFFFF"
+    width="75%"
+    alt="GitHub Streak"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<!-- GitHub Streak -->
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Amira-ferchichi-9&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=9F9F9F" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- GitHub Activity Graph -->
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amira-ferchichi-9&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true" alt="GitHub Activity Graph"/>
+  <!-- Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amira-ferchichi-9&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 
 </div>
-
 ---
 
 <!-- ═════════════════════════════ CONTRIBUTION SNAKE ═════════════════════════════ -->
