@@ -227,7 +227,7 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,29,30&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
   <sub>© Amira Ferchichi · Built with passion and curiosity.</sub>
 
