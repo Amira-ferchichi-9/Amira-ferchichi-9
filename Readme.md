@@ -5,11 +5,12 @@
 <div align="center">
 
   <!-- Dynamic Light / Dark Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=AMIRA%20FERCHICHI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20technology&descAlignY=58&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=26,29,30&text=AMIRA%20FERCHICHI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20technology&descAlignY=58&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=26,29,30&text=AMIRA%20FERCHICHI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20technology&descAlignY=58&animation=fadeIn" width="100%" alt="Amira Ferchichi banner"/>
-  </picture>
+ <!-- Dark GitHub Banner -->
+<img
+  src="art/header-dark.png"
+  width="100%"
+  alt="Amira Ferchichi Banner"
+/>
 
   <br/>
 
