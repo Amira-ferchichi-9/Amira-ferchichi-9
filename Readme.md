@@ -201,19 +201,17 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
 
 <div align="center">
 
+<a href="mailto:amira.ferchichi@etudiant-enit.utm.tn">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"/>
+</a>
+
 <a href="https://www.linkedin.com/in/amira-ferchichi/">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/_amira_ferchichi_/">
-  <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://www.facebook.com/amira.ferchichi.77/">
-  <img src="https://img.shields.io/badge/Facebook-F8BBD0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
 </div>
+
+---
 
 ---
 
