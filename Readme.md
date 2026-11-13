@@ -6,11 +6,7 @@
 
   <!-- Dynamic Light / Dark Banner -->
  <!-- Dark GitHub Banner -->
-<img
-  src="art/header-dark.png"
-  width="100%"
-  alt="Amira Ferchichi Banner"
-/>
+<img src="./header-dark.png" width="100%" alt="Amira Banner"/>
 
   <br/>
 
