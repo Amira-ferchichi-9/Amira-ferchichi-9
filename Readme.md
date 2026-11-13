@@ -224,3 +224,7 @@ Repository → Actions → Generate Contribution Snake → Run workflow.
   <sub>© Amira Ferchichi · Built with passion and curiosity.</sub>
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amira-ferchichi-9/Amira-ferchichi-9/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
