@@ -166,22 +166,6 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amira-ferchichi-9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amira-ferchichi-9&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF&count_private=true"
-    height="180"
-    alt="Top Languages"
-  />
-
-  <br/><br/>
-
   <!-- GitHub Streak -->
   <img
     src="https://streak-stats.demolab.com?user=Amira-ferchichi-9&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=FFFFFF"
@@ -189,16 +173,9 @@ Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunication
     alt="GitHub Streak"
   />
 
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Amira-ferchichi-9&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-
 </div>
+
+
 
 ---
 
