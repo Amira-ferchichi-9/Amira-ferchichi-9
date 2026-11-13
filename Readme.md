@@ -1,37 +1,42 @@
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    AMIRA FERCHICHI | GITHUB                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <!-- Dynamic Light / Dark Banner -->
- <!-- Dark GitHub Banner -->
-<img src="./header-dark.png" width="100%" alt="Amira Banner"/>
+  <!-- Custom Dark Banner -->
+  <img
+    src="./header-dark.png"
+    width="100%"
+    alt="Amira Ferchichi"
+  />
 
   <br/>
 
-  <h1>Hey, I'm Amira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
+  <h1>Hey, I'm Amira 👋</h1>
 
-  <h3>Engineer in the making · Tech enthusiast · Lifelong learner</h3>
+  <h3>ICT Engineer · Tech Enthusiast · Lifelong Learner</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=Exploring+the+world+of+technology+%E2%9C%A8;Telecommunications+%26+Software+Engineering;Curious+about+AI+%26+Cybersecurity;Turning+curiosity+into+real-world+projects;Always+learning%2C+always+building+%F0%9F%8C%B8" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=Exploring+the+world+of+technology+%E2%9C%A8;Cloud+Computing+%26+Infrastructure;Artificial+Intelligence+%26+LLMs;Cybersecurity+%26+Network+Security;Always+learning%2C+always+building" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
 
-  <!-- Profile Badges -->
+  <!-- GitHub Badges -->
+
   <a href="https://github.com/Amira-ferchichi-9">
-    <img src="https://img.shields.io/github/followers/Amira-ferchichi-9?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1C1C1C" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Amira-ferchichi-9?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1C1C1C" alt="Followers"/>
   </a>
+
   <a href="https://github.com/Amira-ferchichi-9?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Amira-ferchichi-9?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1C1C1C" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/Amira-ferchichi-9?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1C1C1C" alt="Stars"/>
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=Amira-ferchichi-9&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
   <br/><br/>
-
-  *"Stay curious. Build boldly. Make an impact."*
 
 </div>
 
@@ -39,93 +44,81 @@
 
 <!-- ═════════════════════════════ ABOUT ME ═════════════════════════════ -->
 
-<h2 align="center">୨୧ &nbsp; About Me &nbsp; ୨୧</h2>
+<h2 align="center">About Me</h2>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+I'm **Amira Ferchichi**, an ICT Engineer specializing in **Telecommunications**, passionate about technology, innovation, and solving real-world problems.
 
-### ✨ A little about me
+- 🎓 ICT Engineering — National Engineering School of Tunis (ENIT).
+- ☁️ Interested in Cloud Computing and Cloud Infrastructure.
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and LLMs.
+- 🔐 Passionate about Cybersecurity and Network Security.
+- 💻 Interested in Software Engineering and building practical solutions.
+- 🚀 Always learning, experimenting, and exploring new technologies.
 
-Hey! I'm **Amira Ferchichi**, an ICT engineering student specializing in **Telecommunications** at the National Engineering School of Tunis (ENIT).
+**Areas of Interest:**
 
-I'm passionate about exploring the intersection of technology, innovation, and problem-solving.
-
-- 🎓 Engineering student at **ENIT, Tunisia**.
-- 💻 Exploring software development and programming.
-- 🤖 Interested in Artificial Intelligence & Machine Learning.
-- 🔐 Exploring Cybersecurity and Network Security.
-- 🌐 Fascinated by telecommunications and emerging technologies.
-- 🚀 Always looking for opportunities to learn, collaborate, and build meaningful projects.
-- 🌸 Believer in curiosity, consistency, and continuous growth.
-
-**Currently exploring:** AI · LLMs · RAG · Cybersecurity · Software Engineering
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" width="100%" alt="Amira's profile illustration"/>
-
-<br/>
-
-<sub>Dream big. Code bigger. ✨</sub>
-
-</td>
-</tr>
-</table>
+Cloud Computing · Artificial Intelligence · Cybersecurity · Telecommunications
 
 ---
 
 <!-- ═════════════════════════════ TECH STACK ═════════════════════════════ -->
 
-<h2 align="center">୨୧ &nbsp; Tech Stack &nbsp; ୨୧</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,html,css&theme=light" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,html,css&theme=dark" alt="Programming Languages"/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,wordpress,bootstrap,tailwind&theme=light" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,wordpress,bootstrap,tailwind&theme=dark" alt="Web Development"/>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash&theme=dark" alt="Cloud and DevOps"/>
 
 ### 🤖 AI & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light" alt="AI and Data Science"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI and Data Science"/>
 
 ### 🔐 Cybersecurity & Networking
 
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,wireshark&theme=light" alt="Cybersecurity and Networking"/>
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker&theme=dark" alt="Cybersecurity and Networking"/>
 
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,arduino,mysql,postman&theme=light" alt="Tools and Platforms"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,arduino,mysql,postman&theme=dark" alt="Tools and Platforms"/>
 
 </div>
 
 ---
 
-<!-- ═════════════════════════════ GITHUB STATS ═════════════════════════════ -->
+<!-- ═════════════════════════════ GITHUB ANALYTICS ═════════════════════════════ -->
 
-<h2 align="center">୨୧ &nbsp; GitHub Analytics &nbsp; ୨୧</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amira-ferchichi-9&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9F9F9F&ring_color=F8BBD0&include_all_commits=true" alt="Amira's GitHub Stats"/>
+<!-- GitHub Statistics -->
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amira-ferchichi-9&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9F9F9F&ring_color=F8BBD0&include_all_commits=true" alt="GitHub Stats"/>
 
 <!-- Top Languages -->
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-ferchichi-9&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=9F9F9F" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- GitHub Streak -->
-<img width="75%" src="https://streak-stats.demolab.com?user=Amira-ferchichi-9&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=9F9F9F" alt="GitHub Streak Stats"/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Amira-ferchichi-9&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=9F9F9F" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
+<!-- GitHub Activity Graph -->
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amira-ferchichi-9&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
@@ -134,25 +127,21 @@ I'm passionate about exploring the intersection of technology, innovation, and p
 
 <!-- ═════════════════════════════ CONTRIBUTION SNAKE ═════════════════════════════ -->
 
-<h2 align="center">୨୧ &nbsp; Contribution Garden &nbsp; ୨୧</h2>
+<h2 align="center">Contribution Garden 🌸</h2>
 
 <div align="center">
-
-*Every contribution is a little step forward. 🌷*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amira-ferchichi-9/Amira-ferchichi-9/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amira-ferchichi-9/Amira-ferchichi-9/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Amira-ferchichi-9/Amira-ferchichi-9/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Amira-ferchichi-9/Amira-ferchichi-9/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
 <!--
-IMPORTANT: Enable the contribution snake animation by creating:
+Create this workflow at:
 .github/workflows/snake.yml
-
-Add the following GitHub Action workflow:
 
 name: Generate Contribution Snake
 
@@ -179,7 +168,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Output Branch
+      - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -187,7 +176,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-After adding this workflow, go to:
+After creating the workflow:
 Repository → Actions → Generate Contribution Snake → Run workflow.
 -->
 
@@ -195,34 +184,21 @@ Repository → Actions → Generate Contribution Snake → Run workflow.
 
 <!-- ═════════════════════════════ CONNECT ═════════════════════════════ -->
 
-<h2 align="center">୨୧ &nbsp; Let's Connect &nbsp; ୨୧</h2>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
-*Good ideas become better when shared. Let's create something amazing!*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/amira-ferchichi/">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/YOUR-X-USERNAME">
-  <img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+
+<a href="https://www.instagram.com/_amira_ferchichi_/">
   <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.tiktok.com/@YOUR-TIKTOK-USERNAME">
-  <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
-<a href="https://www.youtube.com/@YOUR-YOUTUBE-CHANNEL">
-  <img src="https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
-<br/><br/>
+<a href="https://www.facebook.com/amira.ferchichi.77/">
+  <img src="https://img.shields.io/badge/Facebook-F8BBD0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
 </div>
 
@@ -232,14 +208,8 @@ Repository → Actions → Generate Contribution Snake → Run workflow.
 
 <div align="center">
 
-### 🌷 Thanks for stopping by!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,29,30&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
-*Keep exploring. Keep creating. Keep growing.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,29,30&height=120&section=footer&animation=fadeIn" width="100%" alt="Pink waving footer"/>
-
-<sub>Made with ♡ by Amira Ferchichi</sub>
+  <sub>© Amira Ferchichi · Built with passion and curiosity.</sub>
 
 </div>
