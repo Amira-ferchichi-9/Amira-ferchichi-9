@@ -53,35 +53,9 @@ Cybersecurity · Cloud Infrastructure · Artificial Intelligence · Telecommunic
 
 ---
 
-<!-- ═════════════════════════════ FEATURED PROJECTS ═════════════════════════════ -->
-
 <h2 align="center">Featured Projects</h2>
 
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📡 HIDS/NIDS Monitoring & Intrusion Detection</h3>
-      <p>Security monitoring architecture with a <b>GNS3</b> topology bridged to a Kali VM, monitored hosts running as <b>Docker</b> containers, <b>Suricata</b> (NIDS) and <b>Wazuh</b> (HIDS) for alert correlation, tested with simulated attacks (port scans, SSH brute-force).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square" alt="Suricata"/>
-        <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square" alt="Wazuh"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/GNS3-0F4C81?style=flat-square" alt="GNS3"/>
-      </p>
-      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-1">🔗 View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 IoT/IIoT Intrusion Detection (ML & Big Data)</h3>
-      <p>Multiclass attack classification (DDoS, MITM, SQL injection, XSS, ransomware, port scanning) on the <b>Edge-IIoTset</b> dataset (~157,800 records), scaled with <b>Apache Spark</b>, results stored in <b>Elasticsearch</b> and visualized in <b>Kibana</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark"/>
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-        <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      </p>
-      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-2">🔗 View repository</a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📧 ThreatIntel: Automated Email Threat Detection</h3>
@@ -92,20 +66,51 @@ Cybersecurity · Cloud Infrastructure · Artificial Intelligence · Telecommunic
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
       </p>
-      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-3">🔗 View repository</a>
+      <a href="https://github.com/Amira-ferchichi-9/Threatintel-project">🔗 View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 WiFi Security & Man-in-the-Middle Lab</h3>
-      <p>Virtual lab (Kali Linux vs a Windows target) simulating an <b>ARP spoofing</b> MITM attack with <b>Bettercap</b> and <b>mitmproxy</b>, with an Ettercap/Wireshark variant, plus an analysis of the attack's limits (HSTS, WPA3) and mitigation recommendations.</p>
+      <h3>📡 HIDS/NIDS Monitoring & Intrusion Detection</h3>
+      <p>Security monitoring architecture with a <b>GNS3</b> topology bridged to a Kali VM, monitored hosts running as <b>Docker</b> containers, <b>Suricata</b> (NIDS) and <b>Wazuh</b> (HIDS) for alert correlation, tested with simulated attacks (port scans, SSH brute-force).</p>
       <p>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
-        <img src="https://img.shields.io/badge/Bettercap-EF93C4?style=flat-square" alt="Bettercap"/>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+        <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square" alt="Suricata"/>
+        <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square" alt="Wazuh"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/GNS3-0F4C81?style=flat-square" alt="GNS3"/>
       </p>
-      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-4">🔗 View repository</a>
+      <a href="https://github.com/Amira-ferchichi-9/hids-nids-project">🔗 View repository</a>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>📘 AI-Assisted Product Catalog Digitization</h3>
+      <p>Volunteer internship project: tooling to <b>digitize a company's product catalog using AI tools</b>, automating catalog generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/AI_Tools-EF93C4?style=flat-square" alt="AI Tools"/>
+      </p>
+      <!-- Ajoute le lien ci-dessous seulement quand le repo est public et renommé :
+      <a href="https://github.com/Amira-ferchichi-9/NOUVEAU-NOM">🔗 View repository</a> -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Village Under Attack</h3>
+      <p>Game developed in <b>C++</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+      </p>
+      <a href="https://github.com/Amira-ferchichi-9/Village-Under-Attack-game">🔗 View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 IoT/IIoT Intrusion Detection (ML & Big Data)</h3>
+      <p>Multiclass attack classification (DDoS, MITM, SQL injection, XSS, ransomware, port scanning) on the <b>Edge-IIoTset</b> dataset (~157,800 records), scaled with <b>Apache Spark</b>, results stored in <b>Elasticsearch</b> and visualized in <b>Kibana</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark"/>
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+        <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🤖 Intrusion Detection Agent with Reinforcement Learning</h3>
       <p>Network intrusion detection modeled as a <b>Markov decision process</b>, with a <b>Monte Carlo</b> agent compared against temporal-difference methods (<b>SARSA, Q-Learning</b>).</p>
@@ -114,7 +119,17 @@ Cybersecurity · Cloud Infrastructure · Artificial Intelligence · Telecommunic
         <img src="https://img.shields.io/badge/Monte_Carlo-FF69B4?style=flat-square" alt="Monte Carlo"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
-      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-5">🔗 View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 WiFi Security & Man-in-the-Middle Lab</h3>
+      <p>Virtual lab (Kali Linux vs a Windows target) simulating an <b>ARP spoofing</b> MITM attack with <b>Bettercap</b> and <b>mitmproxy</b>, with an Ettercap/Wireshark variant, plus an analysis of the attack's limits (HSTS, WPA3) and mitigation recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
+        <img src="https://img.shields.io/badge/Bettercap-EF93C4?style=flat-square" alt="Bettercap"/>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📷 Smart Surveillance Camera (IoT & AI)</h3>
@@ -124,13 +139,9 @@ Cybersecurity · Cloud Infrastructure · Artificial Intelligence · Telecommunic
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
-      <a href="https://github.com/Amira-ferchichi-9/REPO-NAME-6">🔗 View repository</a>
     </td>
   </tr>
 </table>
-
----
-
 <!-- ═════════════════════════════ TECH STACK ═════════════════════════════ -->
 
 <h2 align="center">Tech Stack</h2>
