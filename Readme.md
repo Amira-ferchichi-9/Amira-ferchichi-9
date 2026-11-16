@@ -88,8 +88,7 @@ Cybersecurity · Cloud Infrastructure · Artificial Intelligence · Telecommunic
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/AI_Tools-EF93C4?style=flat-square" alt="AI Tools"/>
       </p>
-      <!-- Ajoute le lien ci-dessous seulement quand le repo est public et renommé :
-      <a href="https://github.com/Amira-ferchichi-9/NOUVEAU-NOM">🔗 View repository</a> -->
+      <a href="https://github.com/Amira-ferchichi-9/AI-Assisted-Product-Catalog-Digitization">🔗 View repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎮 Village Under Attack</h3>
